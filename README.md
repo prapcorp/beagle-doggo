@@ -1,2 +1,3 @@
 # BEAGLE DOG PROJECT
-![Screenshot (37)](https://github.com/SaikiranThalloju/BEAGLE/assets/139635423/8597cb3d-ed35-4ece-ad45-7b2487507733)
+![Screenshot (34)](https://github.com/prapcorp/beagle1/assets/138362347/c6903775-8304-4111-b28f-fceedd9ac592)
+
